@@ -46,11 +46,6 @@ li{
 .menu a{
     color: rgb(240, 216, 216);
     text-decoration: none;
-    border-left: 10px;
-    border-right: 10px;
-    border: 1px solid rgb(18, 102, 67);
-    border-radius: 5px;
-    padding: 5px;
     background-color: rgb(18, 102, 67);
 
 }
