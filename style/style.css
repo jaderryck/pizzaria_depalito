@@ -89,7 +89,7 @@ li{
 
 .pizza{
     margin-bottom: 20px;
-    margin-right: 25px;
+    margin-right: 10px;
     border-radius: 5px;
     padding: 15px;
     background-color: rgba(95, 95, 95, 0.1);
@@ -162,14 +162,14 @@ section img{
 
     }
 
-    .menu li{
+    .menu a{
         background-color: rgb(18, 102, 67);
         display: block;
         margin-bottom: 5px;
         padding-top: 6px;
         border-radius: 5px;
     }
-
+        
     .titulo{
         font-size: 40px;
     }
