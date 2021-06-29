@@ -52,15 +52,8 @@ li{
 }
 
 .menu a{
-    color: rgb(240, 216, 216);
     text-decoration: none;
-    background-color: rgb(18, 102, 67);
 
-}
-
-.menu a:hover{
-    background-color: rgb(153, 43, 43);
-    border: rgb(18, 102, 67);
 }
 
 
@@ -83,7 +76,6 @@ li{
 .pizza{
     margin-bottom: 20px;
     margin-right: 25px;
-    /* border: 1px solid rgb(95, 95, 95, 02); */
     border-radius: 5px;
     padding: 15px;
     background-color: rgba(95, 95, 95, 0.1);
