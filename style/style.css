@@ -75,6 +75,18 @@ h1{
     list-style: none;
 }
 
+ul{
+    text-align: center;
+    padding-left: 10px;
+}    
+
+li{
+    list-style: none;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    
+}
+
 .pizza{
     margin-bottom: 20px;
     margin-right: 25px;
@@ -90,8 +102,12 @@ h1{
 }
 
 h6{
-    font-size: 20px;
+    font-size: 22px;
     text-transform: uppercase;
+}
+.pizza p{
+    font-size: 20px;
+    max-width: 280px;
 }
 
 .recheio{
