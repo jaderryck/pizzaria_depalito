@@ -25,35 +25,33 @@ h1{
     text-align: center;
     font-size: 50px; 
     font-family: 'Lusitana', serif;
+    margin-bottom: 10px;
 }
-ul{
+
+.menu {
     text-align: center;
     padding-left: 10px;
 
 }
-li{
-    list-style: none;
-    display: inline-block;
+
+.menu a{
+    text-decoration: none;
     font-size: 25px;
+    font-family: Arial, sans-serif;
+    color: rgb(240, 216, 216);
     border-left: 10px;
     border-right: 10px;
+    border: 1px solid rgb(18, 102, 67);
+    border-radius: 5px;
     padding: 5px;
-    font-family: Arial, sans-serif;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 5px;
-}
-.menu a{
-    color: rgb(240, 216, 216);
-    text-decoration: none;
     background-color: rgb(18, 102, 67);
-
+    margin: 10px;
+    
 }
 .menu a:hover{
-    background-color: rgb(153, 43, 43);
-    border: rgb(75, 100, 90);
+    background-color: brown;
+    border: brown;
 }
-
 
 
 
@@ -63,10 +61,25 @@ h2{
     margin-bottom: 50px;
 }
 
+ul{
+    text-align: center;
+    padding-left: 10px;
+
+}
+
 .pizzas li{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: rgba(95, 95, 95, 0.1);
+    
+    list-style: none;
+    font-size: 25px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 5px;
 }
 
 .pizzas img{
@@ -78,17 +91,22 @@ h6{
     font-size: 26px;
     text-transform: uppercase;
     padding-left: 10px;
+    max-width: 200px;
 }
 
 .pizzas p{
     max-width: 200px;
-    padding-left: 20px;;
+    padding-left: 20px;
 }
 
 
 
 #s2{
     background-color: rgb(153, 43, 43);
+}
+#s2 li{
+    list-style: none;
+    display: inline-block;
 }
 #s2 h3{
     font-size: 40px;
@@ -103,12 +121,20 @@ h6{
 .footer-content{
     text-align: center;
 }
+
+.footer-content li{
+    list-style: none;
+    display: inline-block;
+}
+
 .footer-content h3{
     font-size: 30px;
 }
+
 .footer-content p{
     font-size: 20px;
 }
+
 .footer-content img{
     width: 40px;
 }
@@ -128,7 +154,7 @@ h6{
 
     }
 
-    .menu li{
+    .menu a{
         background-color: rgb(18, 102, 67);
         display: block;
         margin-bottom: 5px;
@@ -144,10 +170,13 @@ h6{
         display: block;
         align-items: center;
         justify-content: none;
+        padding-top: 20px;
     }
 
     .pizzas p{
         max-width: 300px;
     }
-
+    h6{
+        max-width: none;
+    }
 }
