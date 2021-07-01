@@ -148,7 +148,7 @@ h2{
 
     }
 
-    .menu li{
+    .menu a{
         background-color: rgb(18, 102, 67);
         display: block;
         margin-bottom: 5px;
