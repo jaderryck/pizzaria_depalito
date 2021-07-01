@@ -164,6 +164,9 @@ h2{
         font-size: 25px;
     }
 
+    #s1 li{
+        background-color: rgba(95, 95, 95, 0.1);
+    }
     #s1 img{
         width: 100px;
         right: 90px;
