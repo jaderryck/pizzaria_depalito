@@ -104,6 +104,13 @@ h2{
 #s2{
     background-color: rgb(153, 43, 43);
 }
+#s2 ul {
+    text-align: center;
+}
+#s2 li{
+    list-style: none;
+    display: inline-block;
+}
 #s2 h3{
     font-size: 40px;
     text-align: center;
