@@ -77,6 +77,9 @@ h2{
     align-items: center;
     justify-content: space-evenly;
     margin-top: 10px;
+    background-color: rgba(95, 95, 95, 0.1);
+    margin-left: 200px;
+    margin-right: 200px;
 }
 #s1 img{
     width: 120px;
