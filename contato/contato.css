@@ -124,6 +124,10 @@ h2{
 .footer-content{
     text-align: center;
 }
+.footer-content li{
+    list-style: none;
+    display: inline-block;
+}
 .footer-content h3{
     font-size: 30px;
 }
