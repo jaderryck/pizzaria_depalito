@@ -11,10 +11,13 @@ O site consiste em mostrar os produtos da pizzaria DePalito e direcionar os clie
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p2.png)
 
+![Web 3](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p3.png)
+
+![Web 4](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p4.png)
 
 
 # Tecnologias utilizadas
