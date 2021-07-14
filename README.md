@@ -11,12 +11,10 @@ O site consiste em mostrar os produtos da pizzaria DePalito e direcionar os clie
 
 
 ## Layout mobile
+<img width="200" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f5.jpg">
+<img width="200" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f6.jpg">
+<img width="200" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f7.jpg">
 <img width="200" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f8.jpg">
-![mobile 2](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f6.jpg)
-![mobile 3](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f7.jpg)
-![mobile 4](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f8.jpg)
-## Layout web
-![Web 1](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p1.png)
 
 ![Web 2](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p2.png)
 
