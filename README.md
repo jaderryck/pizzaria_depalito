@@ -14,11 +14,10 @@ O site consiste em mostrar os produtos da pizzaria DePalito e direcionar os clie
 <img width="300" heigth="600" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f5.jpg">
 <img width="300" heigth="600" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/f8.jpg">
 
-![Web 2](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p2.png)
 
-![Web 3](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p3.png)
-
-![Web 4](https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p4.png)
+## Layout Web
+<img width="600" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p1.png">
+<img width="600" heigth="400" src="https://github.com/jaderryck/pizzaria_depalito/blob/master/images/p4.png">
 
 
 # Tecnologias utilizadas
