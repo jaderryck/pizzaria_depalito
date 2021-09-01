@@ -67,13 +67,16 @@ ul{
 
 }
 
-.pizzas li{
+li{
+    list-style: none;
+}
+
+.lista{
     display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: rgba(95, 95, 95, 0.1);
     
-    list-style: none;
     font-size: 25px;
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -97,6 +100,11 @@ h6{
 .pizzas p{
     max-width: 200px;
     padding-left: 20px;
+}
+.bebidas{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 
@@ -178,5 +186,8 @@ h6{
     }
     h6{
         max-width: none;
+    }
+    .bebidas{
+        
     }
 }
