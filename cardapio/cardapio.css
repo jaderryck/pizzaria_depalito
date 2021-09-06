@@ -105,6 +105,16 @@ h6{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    font-size: 25px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+samp{
+    font-weight: bold;
+    margin-left: 5px;
 }
 
 
@@ -186,8 +196,5 @@ h6{
     }
     h6{
         max-width: none;
-    }
-    .bebidas{
-        
     }
 }
